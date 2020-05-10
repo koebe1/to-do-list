@@ -24,7 +24,10 @@ body {
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: repeat(6, 1fr);
 
+}
 
+h2 {
+    font-size: 10px;
 }
 .list-container {
     display: flex;
